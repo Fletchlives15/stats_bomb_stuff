@@ -1,0 +1,12 @@
+name: 2023_2023_bundesliga_app
+title: 2023_2023_bundesliga_app
+username: fletch
+account: fletch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10227604
+bundleId: 7817333
+url: https://fletch.shinyapps.io/2023_2023_bundesliga_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
